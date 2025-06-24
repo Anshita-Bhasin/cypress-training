@@ -1,6 +1,6 @@
 // push, pop, shift, unshift, concat
 
-
+// Array.,js ==> JS Sample File
 let arr_num = [1, 2, 5, 9, 10]
 arr_num.push(3) //3 -> 1,2,5,9,10,3
 console.log(arr_num.pop()) // 3
