@@ -1,5 +1,4 @@
 # cypress_k6
-Cypress LIVE Training
 
 # Cypress_k6 Repository
 
