@@ -5,6 +5,7 @@
 Welcome to the **Cypress_k6** repository! This project is part of a live training series designed to help you build a solid foundation in JavaScript, advance to front-end test automation with **Cypress**, and explore performance testing with **k6**.
 
 ## 📁 Project Structure
+Here is the structure
 
 ```
 /cypress_k6
