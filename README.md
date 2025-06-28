@@ -2,7 +2,7 @@
 
 # Cypress_k6 Repository
 
-Welcome to the **Cypress_k6** repository! This project is part of a live training series designed to help you build a solid foundation in JavaScript, advance to front-end test automation with **Cypress**, and explore performance testing with **k6**.
+Welcome to the **Cypress_k6** repository! This project is part of a live training series designed to help you build a solid foundation in JavaScript, advance to front-end test automation with **Cypress**, and explore performance testing with **k6**
 
 ## 📁 Project Structure
 Here is the structure
@@ -26,7 +26,7 @@ Here is the structure
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives:
 
 1. **JavaScript Basics:** Understanding JavaScript fundamentals to set a strong base.
 2. **Cypress for Front-end & API Testing:** Learn how to automate UI testing.
